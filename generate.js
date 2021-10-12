@@ -5,12 +5,16 @@ module.exports = function () {
   return {
     womenProducts: times(8, function (n) {
       return {
-        "img": faker.image.imageUrl(),
-        "imgOnHover": faker.image.imageUrl(),
+        "images": {
+          "img": faker.image.imageUrl(),
+          "imgOnHover": faker.image.imageUrl(),
+        },
         "category": faker.commerce.product(),
         "name": faker.commerce.productName(),
-        "price": faker.commerce.price(),
-        "discount": round(random(0.1, 0.7), 2),
+        "pricing": {
+          "price": faker.commerce.price(),
+          "discount": round(random(0.1, 0.7), 2),
+        },
         "isNew": faker.datatype.boolean(),
       }
     })

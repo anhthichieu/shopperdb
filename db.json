@@ -1,149 +1,213 @@
 {
   "womenProducts": [
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Shirt",
-      "name": "Incredible Cotton Mouse",
-      "price": "110.00",
-      "discount": 0.43,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Shoes",
+      "name": "Tasty Rubber Shoes",
+      "pricing": {
+        "price": "846.00",
+        "discount": 0.38
+      },
+      "isNew": true
+    },
+    {
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Towels",
+      "name": "Generic Metal Table",
+      "pricing": {
+        "price": "10.00",
+        "discount": 0.48
+      },
+      "isNew": true
+    },
+    {
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Sausages",
+      "name": "Gorgeous Fresh Pants",
+      "pricing": {
+        "price": "480.00",
+        "discount": 0.35
+      },
       "isNew": false
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Ball",
-      "name": "Ergonomic Granite Tuna",
-      "price": "874.00",
-      "discount": 0.62,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Car",
+      "name": "Handcrafted Soft Cheese",
+      "pricing": {
+        "price": "591.00",
+        "discount": 0.35
+      },
       "isNew": false
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Chair",
-      "name": "Handcrafted Concrete Shirt",
-      "price": "508.00",
-      "discount": 0.36,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Cheese",
+      "name": "Tasty Frozen Bike",
+      "pricing": {
+        "price": "341.00",
+        "discount": 0.56
+      },
       "isNew": false
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Towels",
+      "name": "Practical Frozen Pizza",
+      "pricing": {
+        "price": "504.00",
+        "discount": 0.32
+      },
+      "isNew": false
+    },
+    {
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
       "category": "Pants",
-      "name": "Gorgeous Steel Salad",
-      "price": "930.00",
-      "discount": 0.51,
-      "isNew": false
+      "name": "Awesome Plastic Gloves",
+      "pricing": {
+        "price": "336.00",
+        "discount": 0.47
+      },
+      "isNew": true
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Shirt",
-      "name": "Awesome Frozen Gloves",
-      "price": "710.00",
-      "discount": 0.47,
-      "isNew": false
-    },
-    {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Chips",
-      "name": "Licensed Rubber Soap",
-      "price": "189.00",
-      "discount": 0.66,
-      "isNew": false
-    },
-    {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Bike",
-      "name": "Awesome Rubber Table",
-      "price": "612.00",
-      "discount": 0.25,
-      "isNew": false
-    },
-    {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Chicken",
-      "name": "Incredible Soft Soap",
-      "price": "640.00",
-      "discount": 0.33,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Car",
+      "name": "Sleek Concrete Mouse",
+      "pricing": {
+        "price": "30.00",
+        "discount": 0.51
+      },
       "isNew": true
     }
   ],
   "menProducts": [
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Pants",
-      "name": "Practical Plastic Bike",
-      "price": "305.00",
-      "discount": 0.5,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Sausages",
+      "name": "Practical Cotton Table",
+      "pricing": {
+        "price": "771.00",
+        "discount": 0.54
+      },
       "isNew": false
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Fish",
-      "name": "Unbranded Wooden Tuna",
-      "price": "359.00",
-      "discount": 0.26,
-      "isNew": false
-    },
-    {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Pants",
-      "name": "Intelligent Rubber Chicken",
-      "price": "834.00",
-      "discount": 0.18,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Chair",
+      "name": "Practical Cotton Soap",
+      "pricing": {
+        "price": "573.00",
+        "discount": 0.45
+      },
       "isNew": true
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Pants",
-      "name": "Unbranded Granite Chips",
-      "price": "325.00",
-      "discount": 0.22,
-      "isNew": true
-    },
-    {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Hat",
-      "name": "Unbranded Granite Fish",
-      "price": "62.00",
-      "discount": 0.29,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Soap",
+      "name": "Handmade Plastic Tuna",
+      "pricing": {
+        "price": "630.00",
+        "discount": 0.35
+      },
       "isNew": false
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Hat",
-      "name": "Incredible Concrete Bacon",
-      "price": "856.00",
-      "discount": 0.56,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Chair",
+      "name": "Fantastic Rubber Sausages",
+      "pricing": {
+        "price": "358.00",
+        "discount": 0.23
+      },
       "isNew": false
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Gloves",
-      "name": "Handmade Metal Chicken",
-      "price": "412.00",
-      "discount": 0.52,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Soap",
+      "name": "Unbranded Cotton Shoes",
+      "pricing": {
+        "price": "229.00",
+        "discount": 0.23
+      },
+      "isNew": false
+    },
+    {
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Bacon",
+      "name": "Handcrafted Concrete Shirt",
+      "pricing": {
+        "price": "596.00",
+        "discount": 0.35
+      },
       "isNew": true
     },
     {
-      "img": "http://placeimg.com/640/480",
-      "imgOnHover": "http://placeimg.com/640/480",
-      "category": "Pants",
-      "name": "Ergonomic Plastic Shirt",
-      "price": "588.00",
-      "discount": 0.16,
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Chair",
+      "name": "Handcrafted Plastic Table",
+      "pricing": {
+        "price": "835.00",
+        "discount": 0.45
+      },
+      "isNew": true
+    },
+    {
+      "images": {
+        "img": "http://placeimg.com/640/480",
+        "imgOnHover": "http://placeimg.com/640/480"
+      },
+      "category": "Cheese",
+      "name": "Ergonomic Wooden Pants",
+      "pricing": {
+        "price": "513.00",
+        "discount": 0.34
+      },
       "isNew": false
     }
   ]
