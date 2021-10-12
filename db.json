@@ -1,74 +1,150 @@
-[
-  {
-    "img": "/img/products/product1a.jpeg",
-    "imgOnHover": "/img/products/product1b.jpeg",
-    "category": "Shoes",
-    "name": "Leather mid-heel Sandals",
-    "price": "129.00",
-    "discountedPrice": null,
-    "isNew": true
-  },
-  {
-    "img": "/img/products/product2a.jpeg",
-    "imgOnHover": "/img/products/product2b.jpeg",
-    "category": "Dresses",
-    "name": "Cotton floral print Dress",
-    "price": "$40.00",
-    "discountedPrice": null,
-    "isNew": false
-  },
-  {
-    "img": "/img/products/product3a.jpeg",
-    "imgOnHover": "/img/products/product3b.jpeg",
-    "category": "Shoes",
-    "name": "Leather Sneakers",
-    "price": "$85.00",
-    "discountedPrice": "$80.00",
-    "isNew": false
-  },
-  {
-    "img": "/img/products/product4a.jpeg",
-    "imgOnHover": "/img/products/product4b.jpeg",
-    "category": "Tops",
-    "name": "Cropped cotton Top",
-    "price": "$29.00",
-    "discountedPrice": null,
-    "isNew": false
-  },
-  {
-    "img": "/img/products/product5a.jpeg",
-    "imgOnHover": "/img/products/product5b.jpeg",
-    "category": "Dresses",
-    "name": "Floral print midi Dress",
-    "price": "$50.00",
-    "discountedPrice": null,
-    "isNew": false
-  },
-  {
-    "img": "/img/products/product6a.jpeg",
-    "imgOnHover": "/img/products/product6b.jpeg",
-    "category": "Bags",
-    "name": "Suede cross body Bag",
-    "price": "$79.00",
-    "discountedPrice": "$49.00",
-    "isNew": false
-  },
-  {
-    "img": "/img/products/product7a.jpeg",
-    "imgOnHover": "/img/products/product7b.jpeg",
-    "category": "Dresses",
-    "name": "Floral print midi Dress",
-    "price": "$50.00",
-    "discountedPrice": null,
-    "isNew": false
-  },
-  {
-    "img": "/img/products/product8a.jpeg",
-    "imgOnHover": "/img/products/product8b.jpeg",
-    "category": "Skirts",
-    "name": "Printed A-line Skirt",
-    "price": "$79.00",
-    "discountedPrice": null,
-    "isNew": true
-  }
-]
+{
+  "womenProducts": [
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Shirt",
+      "name": "Incredible Cotton Mouse",
+      "price": "110.00",
+      "discount": 0.43,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Ball",
+      "name": "Ergonomic Granite Tuna",
+      "price": "874.00",
+      "discount": 0.62,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Chair",
+      "name": "Handcrafted Concrete Shirt",
+      "price": "508.00",
+      "discount": 0.36,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Pants",
+      "name": "Gorgeous Steel Salad",
+      "price": "930.00",
+      "discount": 0.51,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Shirt",
+      "name": "Awesome Frozen Gloves",
+      "price": "710.00",
+      "discount": 0.47,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Chips",
+      "name": "Licensed Rubber Soap",
+      "price": "189.00",
+      "discount": 0.66,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Bike",
+      "name": "Awesome Rubber Table",
+      "price": "612.00",
+      "discount": 0.25,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Chicken",
+      "name": "Incredible Soft Soap",
+      "price": "640.00",
+      "discount": 0.33,
+      "isNew": true
+    }
+  ],
+  "menProducts": [
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Pants",
+      "name": "Practical Plastic Bike",
+      "price": "305.00",
+      "discount": 0.5,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Fish",
+      "name": "Unbranded Wooden Tuna",
+      "price": "359.00",
+      "discount": 0.26,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Pants",
+      "name": "Intelligent Rubber Chicken",
+      "price": "834.00",
+      "discount": 0.18,
+      "isNew": true
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Pants",
+      "name": "Unbranded Granite Chips",
+      "price": "325.00",
+      "discount": 0.22,
+      "isNew": true
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Hat",
+      "name": "Unbranded Granite Fish",
+      "price": "62.00",
+      "discount": 0.29,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Hat",
+      "name": "Incredible Concrete Bacon",
+      "price": "856.00",
+      "discount": 0.56,
+      "isNew": false
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Gloves",
+      "name": "Handmade Metal Chicken",
+      "price": "412.00",
+      "discount": 0.52,
+      "isNew": true
+    },
+    {
+      "img": "http://placeimg.com/640/480",
+      "imgOnHover": "http://placeimg.com/640/480",
+      "category": "Pants",
+      "name": "Ergonomic Plastic Shirt",
+      "price": "588.00",
+      "discount": 0.16,
+      "isNew": false
+    }
+  ]
+}
