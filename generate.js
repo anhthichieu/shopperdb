@@ -34,7 +34,8 @@ function getPrice() {
 }
 
 module.exports = function () {
-  let data = { "women": [], "men": [], "kids": [] };
+  // let data = { "women": [], "men": [], "kids": [] };
+  let data = {}
 
   function createData(group) {
     let products = [];
