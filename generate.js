@@ -12,17 +12,17 @@ function getImgOnHoverUrl(index) {
 
 let productStatus = { isNew: undefined, discountVal: undefined }
 
-function getProductState(index) {
+function getProductStatus(index) {
   productStatus.isNew = faker.datatype.boolean();
   let isDiscounted = productStatus.isNew ? false : faker.datatype.boolean(); // New product is not discounted
   productStatus.discountVal = isDiscounted ? round(random(0.1, 0.7), 2) : 0
-  console.log('productStatus', productStatus);
 }
 
 
 module.exports = function () {
   const data = { products: [] }
   for (let i = 0; i < arrayLength; i++) {
+    getProductStatus(i)
     data.products.push({
       "images": {
         "img": getImgUrl(i),
@@ -30,7 +30,7 @@ module.exports = function () {
       },
       "category": faker.commerce.product(),
       "name": faker.commerce.productName(),
-      "isNew": getProductState(i),
+      "isNew": productStatus.isNew,
       "pricing": {
         "price": faker.commerce.price(),
         "discount": productStatus.discountVal,

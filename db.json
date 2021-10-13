@@ -5,11 +5,12 @@
         "img": "/img/products/product1a.jpeg",
         "imgOnHover": "/img/products/product1b.jpeg"
       },
-      "category": "Pizza",
-      "name": "Sleek Plastic Car",
+      "category": "Shoes",
+      "name": "Rustic Concrete Cheese",
+      "isNew": false,
       "pricing": {
-        "price": "688.00",
-        "discount": 0
+        "price": "677.00",
+        "discount": 0.19
       }
     },
     {
@@ -17,120 +18,24 @@
         "img": "/img/products/product2a.jpeg",
         "imgOnHover": "/img/products/product2b.jpeg"
       },
-      "category": "Computer",
-      "name": "Ergonomic Soft Salad",
+      "category": "Fish",
+      "name": "Licensed Steel Gloves",
+      "isNew": false,
       "pricing": {
-        "price": "68.00",
-        "discount": 0
+        "price": "936.00",
+        "discount": 0.12
       }
     },
     {
       "images": {
         "img": "/img/products/product3a.jpeg",
         "imgOnHover": "/img/products/product3b.jpeg"
-      },
-      "category": "Soap",
-      "name": "Refined Wooden Mouse",
-      "pricing": {
-        "price": "996.00",
-        "discount": 0
-      }
-    },
-    {
-      "images": {
-        "img": "/img/products/product4a.jpeg",
-        "imgOnHover": "/img/products/product4b.jpeg"
       },
       "category": "Hat",
-      "name": "Handmade Rubber Ball",
+      "name": "Fantastic Plastic Ball",
+      "isNew": true,
       "pricing": {
-        "price": "61.00",
-        "discount": 0
-      }
-    },
-    {
-      "images": {
-        "img": "/img/products/product5a.jpeg",
-        "imgOnHover": "/img/products/product5b.jpeg"
-      },
-      "category": "Table",
-      "name": "Awesome Steel Shirt",
-      "pricing": {
-        "price": "409.00",
-        "discount": 0
-      }
-    },
-    {
-      "images": {
-        "img": "/img/products/product6a.jpeg",
-        "imgOnHover": "/img/products/product6b.jpeg"
-      },
-      "category": "Sausages",
-      "name": "Licensed Wooden Mouse",
-      "pricing": {
-        "price": "416.00",
-        "discount": 0
-      }
-    },
-    {
-      "images": {
-        "img": "/img/products/product7a.jpeg",
-        "imgOnHover": "/img/products/product7b.jpeg"
-      },
-      "category": "Chips",
-      "name": "Gorgeous Steel Fish",
-      "pricing": {
-        "price": "971.00",
-        "discount": 0
-      }
-    },
-    {
-      "images": {
-        "img": "/img/products/product8a.jpeg",
-        "imgOnHover": "/img/products/product8b.jpeg"
-      },
-      "category": "Computer",
-      "name": "Awesome Cotton Chair",
-      "pricing": {
-        "price": "340.00",
-        "discount": 0.55
-      }
-    }
-  ],
-  "menProducts": [
-    {
-      "images": {
-        "img": "/img/products/product1a.jpeg",
-        "imgOnHover": "/img/products/product1b.jpeg"
-      },
-      "category": "Car",
-      "name": "Tasty Wooden Shoes",
-      "pricing": {
-        "price": "12.00",
-        "discount": 0
-      }
-    },
-    {
-      "images": {
-        "img": "/img/products/product2a.jpeg",
-        "imgOnHover": "/img/products/product2b.jpeg"
-      },
-      "category": "Computer",
-      "name": "Tasty Granite Keyboard",
-      "pricing": {
-        "price": "181.00",
-        "discount": 0.39
-      }
-    },
-    {
-      "images": {
-        "img": "/img/products/product3a.jpeg",
-        "imgOnHover": "/img/products/product3b.jpeg"
-      },
-      "category": "Keyboard",
-      "name": "Handcrafted Rubber Shirt",
-      "pricing": {
-        "price": "649.00",
+        "price": "490.00",
         "discount": 0
       }
     },
@@ -140,10 +45,11 @@
         "imgOnHover": "/img/products/product4b.jpeg"
       },
       "category": "Mouse",
-      "name": "Fantastic Soft Pizza",
+      "name": "Sleek Rubber Mouse",
+      "isNew": false,
       "pricing": {
-        "price": "613.00",
-        "discount": 0.25
+        "price": "682.00",
+        "discount": 0
       }
     },
     {
@@ -151,11 +57,12 @@
         "img": "/img/products/product5a.jpeg",
         "imgOnHover": "/img/products/product5b.jpeg"
       },
-      "category": "Cheese",
-      "name": "Ergonomic Granite Ball",
+      "category": "Mouse",
+      "name": "Fantastic Rubber Ball",
+      "isNew": true,
       "pricing": {
-        "price": "833.00",
-        "discount": 0.11
+        "price": "603.00",
+        "discount": 0
       }
     },
     {
@@ -163,10 +70,117 @@
         "img": "/img/products/product6a.jpeg",
         "imgOnHover": "/img/products/product6b.jpeg"
       },
-      "category": "Salad",
-      "name": "Handcrafted Soft Chair",
+      "category": "Pizza",
+      "name": "Refined Wooden Fish",
+      "isNew": false,
       "pricing": {
-        "price": "847.00",
+        "price": "543.00",
+        "discount": 0.68
+      }
+    },
+    {
+      "images": {
+        "img": "/img/products/product7a.jpeg",
+        "imgOnHover": "/img/products/product7b.jpeg"
+      },
+      "category": "Sausages",
+      "name": "Incredible Metal Fish",
+      "isNew": false,
+      "pricing": {
+        "price": "177.00",
+        "discount": 0.53
+      }
+    },
+    {
+      "images": {
+        "img": "/img/products/product8a.jpeg",
+        "imgOnHover": "/img/products/product8b.jpeg"
+      },
+      "category": "Bacon",
+      "name": "Awesome Plastic Ball",
+      "isNew": false,
+      "pricing": {
+        "price": "543.00",
+        "discount": 0.22
+      }
+    }
+  ],
+  "menProducts": [
+    {
+      "images": {
+        "img": "/img/products/product1a.jpeg",
+        "imgOnHover": "/img/products/product1b.jpeg"
+      },
+      "category": "Salad",
+      "name": "Generic Concrete Tuna",
+      "isNew": true,
+      "pricing": {
+        "price": "126.00",
+        "discount": 0
+      }
+    },
+    {
+      "images": {
+        "img": "/img/products/product2a.jpeg",
+        "imgOnHover": "/img/products/product2b.jpeg"
+      },
+      "category": "Pizza",
+      "name": "Fantastic Cotton Ball",
+      "isNew": false,
+      "pricing": {
+        "price": "366.00",
+        "discount": 0
+      }
+    },
+    {
+      "images": {
+        "img": "/img/products/product3a.jpeg",
+        "imgOnHover": "/img/products/product3b.jpeg"
+      },
+      "category": "Fish",
+      "name": "Refined Steel Gloves",
+      "isNew": false,
+      "pricing": {
+        "price": "343.00",
+        "discount": 0.12
+      }
+    },
+    {
+      "images": {
+        "img": "/img/products/product4a.jpeg",
+        "imgOnHover": "/img/products/product4b.jpeg"
+      },
+      "category": "Towels",
+      "name": "Sleek Cotton Chips",
+      "isNew": false,
+      "pricing": {
+        "price": "201.00",
+        "discount": 0
+      }
+    },
+    {
+      "images": {
+        "img": "/img/products/product5a.jpeg",
+        "imgOnHover": "/img/products/product5b.jpeg"
+      },
+      "category": "Bike",
+      "name": "Intelligent Granite Cheese",
+      "isNew": false,
+      "pricing": {
+        "price": "217.00",
+        "discount": 0.6
+      }
+    },
+    {
+      "images": {
+        "img": "/img/products/product6a.jpeg",
+        "imgOnHover": "/img/products/product6b.jpeg"
+      },
+      "category": "Chair",
+      "name": "Handmade Concrete Bike",
+      "isNew": true,
+      "pricing": {
+        "price": "234.00",
         "discount": 0
       }
     },
@@ -175,10 +189,11 @@
         "img": "/img/products/product7a.jpeg",
         "imgOnHover": "/img/products/product7b.jpeg"
       },
-      "category": "Pants",
-      "name": "Intelligent Steel Chair",
+      "category": "Chair",
+      "name": "Gorgeous Wooden Chips",
+      "isNew": true,
       "pricing": {
-        "price": "329.00",
+        "price": "525.00",
         "discount": 0
       }
     },
@@ -187,11 +202,12 @@
         "img": "/img/products/product8a.jpeg",
         "imgOnHover": "/img/products/product8b.jpeg"
       },
-      "category": "Chair",
-      "name": "Ergonomic Cotton Cheese",
+      "category": "Pizza",
+      "name": "Small Fresh Pizza",
+      "isNew": false,
       "pricing": {
-        "price": "919.00",
-        "discount": 0
+        "price": "22.00",
+        "discount": 0.34
       }
     }
   ]
