@@ -7,7 +7,7 @@ module.exports = function () {
       return {
         "images": {
           "img": faker.image.imageUrl(),
-          "imgOnHover": faker.image.imageUrl(),
+          "imgOnHover": faker.image.fashion(),
         },
         "category": faker.commerce.product(),
         "name": faker.commerce.productName(),
