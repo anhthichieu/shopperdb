@@ -1,16 +1,16 @@
-// const faker = require('faker')
 const { random, round } = require('lodash')
 const arrayLength = 8;
 let controlID = 0;
 const productInfo = require('./productInfo');
+const categoryKeys = ['women', 'men', 'kids'];
 
 /* Get image URLs */
-function getImgUrl(index) {
-  return `/img/products/product${index + 1}a.jpeg`
+function getImgUrl(index, group) {
+  return `/img/products/${group}/product${index + 1}a.jpeg`
 }
 
-function getImgOnHoverUrl(index) {
-  return `/img/products/product${index + 1}b.jpeg`
+function getImgOnHoverUrl(index, group) {
+  return `/img/products/${group}/product${index + 1}b.jpeg`
 }
 
 /* Get product status (new or sale) */
@@ -34,8 +34,7 @@ function getPrice() {
 }
 
 module.exports = function () {
-  const categoryKeys = ['women', 'men', 'kids'];
-  let data = { women: [], men: [], kids: [] };
+  let data = {};
 
   function createData(group) {
     let products = [];
@@ -45,8 +44,8 @@ module.exports = function () {
       products.push({
         "id": controlID,
         "images": {
-          "img": getImgUrl(i),
-          "imgOnHover": getImgOnHoverUrl(i),
+          "img": getImgUrl(i, group),
+          "imgOnHover": getImgOnHoverUrl(i, group),
         },
         "category": productInfo[group]['categories'][i],
         "name": productInfo[group]['productName'][i],
