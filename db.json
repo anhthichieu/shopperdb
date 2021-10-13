@@ -2,8 +2,8 @@
   "womenProducts": [
     {
       "images": {
-        "img": "/img/products/product1a.jpeg'",
-        "imgOnHover": "/img/products/product1b.jpeg'"
+        "img": "/img/products/product1a.jpeg",
+        "imgOnHover": "/img/products/product1b.jpeg"
       },
       "category": "Pizza",
       "name": "Sleek Plastic Car",
@@ -14,8 +14,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product2a.jpeg'",
-        "imgOnHover": "/img/products/product2b.jpeg'"
+        "img": "/img/products/product2a.jpeg",
+        "imgOnHover": "/img/products/product2b.jpeg"
       },
       "category": "Computer",
       "name": "Ergonomic Soft Salad",
@@ -26,8 +26,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product3a.jpeg'",
-        "imgOnHover": "/img/products/product3b.jpeg'"
+        "img": "/img/products/product3a.jpeg",
+        "imgOnHover": "/img/products/product3b.jpeg"
       },
       "category": "Soap",
       "name": "Refined Wooden Mouse",
@@ -38,8 +38,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product4a.jpeg'",
-        "imgOnHover": "/img/products/product4b.jpeg'"
+        "img": "/img/products/product4a.jpeg",
+        "imgOnHover": "/img/products/product4b.jpeg"
       },
       "category": "Hat",
       "name": "Handmade Rubber Ball",
@@ -50,8 +50,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product5a.jpeg'",
-        "imgOnHover": "/img/products/product5b.jpeg'"
+        "img": "/img/products/product5a.jpeg",
+        "imgOnHover": "/img/products/product5b.jpeg"
       },
       "category": "Table",
       "name": "Awesome Steel Shirt",
@@ -62,8 +62,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product6a.jpeg'",
-        "imgOnHover": "/img/products/product6b.jpeg'"
+        "img": "/img/products/product6a.jpeg",
+        "imgOnHover": "/img/products/product6b.jpeg"
       },
       "category": "Sausages",
       "name": "Licensed Wooden Mouse",
@@ -74,8 +74,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product7a.jpeg'",
-        "imgOnHover": "/img/products/product7b.jpeg'"
+        "img": "/img/products/product7a.jpeg",
+        "imgOnHover": "/img/products/product7b.jpeg"
       },
       "category": "Chips",
       "name": "Gorgeous Steel Fish",
@@ -86,8 +86,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product8a.jpeg'",
-        "imgOnHover": "/img/products/product8b.jpeg'"
+        "img": "/img/products/product8a.jpeg",
+        "imgOnHover": "/img/products/product8b.jpeg"
       },
       "category": "Computer",
       "name": "Awesome Cotton Chair",
@@ -100,8 +100,8 @@
   "menProducts": [
     {
       "images": {
-        "img": "/img/products/product1a.jpeg'",
-        "imgOnHover": "/img/products/product1b.jpeg'"
+        "img": "/img/products/product1a.jpeg",
+        "imgOnHover": "/img/products/product1b.jpeg"
       },
       "category": "Car",
       "name": "Tasty Wooden Shoes",
@@ -112,8 +112,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product2a.jpeg'",
-        "imgOnHover": "/img/products/product2b.jpeg'"
+        "img": "/img/products/product2a.jpeg",
+        "imgOnHover": "/img/products/product2b.jpeg"
       },
       "category": "Computer",
       "name": "Tasty Granite Keyboard",
@@ -124,8 +124,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product3a.jpeg'",
-        "imgOnHover": "/img/products/product3b.jpeg'"
+        "img": "/img/products/product3a.jpeg",
+        "imgOnHover": "/img/products/product3b.jpeg"
       },
       "category": "Keyboard",
       "name": "Handcrafted Rubber Shirt",
@@ -136,8 +136,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product4a.jpeg'",
-        "imgOnHover": "/img/products/product4b.jpeg'"
+        "img": "/img/products/product4a.jpeg",
+        "imgOnHover": "/img/products/product4b.jpeg"
       },
       "category": "Mouse",
       "name": "Fantastic Soft Pizza",
@@ -148,8 +148,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product5a.jpeg'",
-        "imgOnHover": "/img/products/product5b.jpeg'"
+        "img": "/img/products/product5a.jpeg",
+        "imgOnHover": "/img/products/product5b.jpeg"
       },
       "category": "Cheese",
       "name": "Ergonomic Granite Ball",
@@ -160,8 +160,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product6a.jpeg'",
-        "imgOnHover": "/img/products/product6b.jpeg'"
+        "img": "/img/products/product6a.jpeg",
+        "imgOnHover": "/img/products/product6b.jpeg"
       },
       "category": "Salad",
       "name": "Handcrafted Soft Chair",
@@ -172,8 +172,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product7a.jpeg'",
-        "imgOnHover": "/img/products/product7b.jpeg'"
+        "img": "/img/products/product7a.jpeg",
+        "imgOnHover": "/img/products/product7b.jpeg"
       },
       "category": "Pants",
       "name": "Intelligent Steel Chair",
@@ -184,8 +184,8 @@
     },
     {
       "images": {
-        "img": "/img/products/product8a.jpeg'",
-        "imgOnHover": "/img/products/product8b.jpeg'"
+        "img": "/img/products/product8a.jpeg",
+        "imgOnHover": "/img/products/product8b.jpeg"
       },
       "category": "Chair",
       "name": "Ergonomic Cotton Cheese",

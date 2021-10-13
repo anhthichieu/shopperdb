@@ -3,11 +3,11 @@ const { times, random, round } = require('lodash')
 const arrayLength = 8;
 
 function getImgUrl(index) {
-  return `/img/products/product${index + 1}a.jpeg'`
+  return `/img/products/product${index + 1}a.jpeg`
 }
 
 function getImgOnHoverUrl(index) {
-  return `/img/products/product${index + 1}b.jpeg'`
+  return `/img/products/product${index + 1}b.jpeg`
 }
 
 let productStatus = { isNew: undefined, discountVal: undefined }
