@@ -8,10 +8,10 @@
       },
       "category": "Shoes",
       "name": "Leather mid-heel Sandals",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": 697,
-        "discount": 0.12
+        "price": 930,
+        "discount": 0
       }
     },
     {
@@ -22,10 +22,10 @@
       },
       "category": "Dresses",
       "name": "Cotton floral print Dress",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": 628,
-        "discount": 0.4
+        "price": 275,
+        "discount": 0
       }
     },
     {
@@ -38,7 +38,7 @@
       "name": "Leather Sneakers",
       "isNew": true,
       "pricing": {
-        "price": 575,
+        "price": 57,
         "discount": 0
       }
     },
@@ -52,7 +52,7 @@
       "name": "Cropped cotton Top",
       "isNew": true,
       "pricing": {
-        "price": 462,
+        "price": 333,
         "discount": 0
       }
     },
@@ -66,7 +66,7 @@
       "name": "Floral print midi Dress",
       "isNew": true,
       "pricing": {
-        "price": 693,
+        "price": 732,
         "discount": 0
       }
     },
@@ -80,8 +80,8 @@
       "name": "Suede cross body Bag",
       "isNew": false,
       "pricing": {
-        "price": 256,
-        "discount": 0.46
+        "price": 167,
+        "discount": 0.29
       }
     },
     {
@@ -92,10 +92,10 @@
       },
       "category": "Dresses",
       "name": "Printed A-line Skirt",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": 587,
-        "discount": 0
+        "price": 704,
+        "discount": 0.66
       }
     },
     {
@@ -108,7 +108,7 @@
       "name": "Heel strappy Sandals",
       "isNew": true,
       "pricing": {
-        "price": 793,
+        "price": 772,
         "discount": 0
       }
     }
@@ -122,9 +122,9 @@
       },
       "category": "Casual Shirts",
       "name": "Plaid silk and cotton flannel shirt",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": 353,
+        "price": 62,
         "discount": 0
       }
     },
@@ -138,7 +138,7 @@
       "name": "High-rise pleated wool trousers",
       "isNew": true,
       "pricing": {
-        "price": 888,
+        "price": 673,
         "discount": 0
       }
     },
@@ -152,7 +152,7 @@
       "name": "Weejuns 90s Larson leather penny loafers",
       "isNew": true,
       "pricing": {
-        "price": 843,
+        "price": 401,
         "discount": 0
       }
     },
@@ -166,7 +166,7 @@
       "name": "Logo-print jersey sweatshirt",
       "isNew": true,
       "pricing": {
-        "price": 473,
+        "price": 476,
         "discount": 0
       }
     },
@@ -178,10 +178,10 @@
       },
       "category": "Cross-body Bags",
       "name": "Tablier leather cross-body bag",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": 885,
-        "discount": 0
+        "price": 130,
+        "discount": 0.5
       }
     },
     {
@@ -192,10 +192,10 @@
       },
       "category": "Coats",
       "name": "Double-lapel wool-blend overcoat",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": 170,
-        "discount": 0
+        "price": 741,
+        "discount": 0.11
       }
     },
     {
@@ -208,8 +208,8 @@
       "name": "Track panelled trainers",
       "isNew": false,
       "pricing": {
-        "price": 295,
-        "discount": 0.61
+        "price": 785,
+        "discount": 0
       }
     },
     {
@@ -220,9 +220,9 @@
       },
       "category": "Backpacks",
       "name": "Anton Sling Anagram-jacquard canvas backpack",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": 241,
+        "price": 744,
         "discount": 0
       }
     }
@@ -238,7 +238,7 @@
       "name": "Navy Blue Wool Cloth Bonpoint Coat",
       "isNew": false,
       "pricing": {
-        "price": 659,
+        "price": 681,
         "discount": 0
       }
     },
@@ -252,7 +252,7 @@
       "name": "Pink Cotton Canvas Simonetta Bag",
       "isNew": true,
       "pricing": {
-        "price": 131,
+        "price": 904,
         "discount": 0
       }
     },
@@ -263,10 +263,10 @@
         "imgOnHover": "/img/products/kids/product3b.jpeg"
       },
       "category": "Dresses",
-      "name": "Blue Denim Stella Mccartney Dress With Floral Embroideries",
+      "name": "Dress Green Kids Il Gufo",
       "isNew": true,
       "pricing": {
-        "price": 231,
+        "price": 950,
         "discount": 0
       }
     },
@@ -280,7 +280,7 @@
       "name": "Chromefree White Leather Veja Sneakers With Velcro",
       "isNew": true,
       "pricing": {
-        "price": 205,
+        "price": 447,
         "discount": 0
       }
     },
@@ -291,10 +291,10 @@
         "imgOnHover": "/img/products/kids/product5b.jpeg"
       },
       "category": "Headbands",
-      "name": "Pink Simonetta Padded Headband",
+      "name": "Turquoise Simonetta Padded Headband",
       "isNew": true,
       "pricing": {
-        "price": 92,
+        "price": 397,
         "discount": 0
       }
     },
@@ -308,7 +308,7 @@
       "name": "Chloé Gold Leather Sandals With Studs",
       "isNew": true,
       "pricing": {
-        "price": 446,
+        "price": 692,
         "discount": 0
       }
     },
@@ -322,7 +322,7 @@
       "name": "Molo T-shirt Yellow Organic Cotton Jersey",
       "isNew": true,
       "pricing": {
-        "price": 62,
+        "price": 772,
         "discount": 0
       }
     },
@@ -336,8 +336,8 @@
       "name": "Black Cotton Canvas Dsquared2 Baseball Cap",
       "isNew": false,
       "pricing": {
-        "price": 617,
-        "discount": 0
+        "price": 788,
+        "discount": 0.42
       }
     }
   ]

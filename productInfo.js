@@ -9,7 +9,7 @@ const info = {
   },
   "kids": {
     "categories": ['Coats', 'Bags', 'Dresses', 'Sneakers', 'Headbands', 'Shoes', 'T-Shirts', 'Hats'],
-    'productName': ['Navy Blue Wool Cloth Bonpoint Coat', 'Pink Cotton Canvas Simonetta Bag', 'Blue Denim Stella Mccartney Dress With Floral Embroideries', 'Chromefree White Leather Veja Sneakers With Velcro', 'Pink Simonetta Padded Headband', 'Chloé Gold Leather Sandals With Studs', 'Molo T-shirt Yellow Organic Cotton Jersey', 'Black Cotton Canvas Dsquared2 Baseball Cap']
+    'productName': ['Navy Blue Wool Cloth Bonpoint Coat', 'Pink Cotton Canvas Simonetta Bag', 'Dress Green Kids Il Gufo', 'Chromefree White Leather Veja Sneakers With Velcro', 'Turquoise Simonetta Padded Headband', 'Chloé Gold Leather Sandals With Studs', 'Molo T-shirt Yellow Organic Cotton Jersey', 'Black Cotton Canvas Dsquared2 Baseball Cap']
   }
 }
 
