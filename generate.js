@@ -1,4 +1,6 @@
 const { random, round } = require('lodash')
+const fs = require('fs');
+
 const arrayLength = 8;
 let controlID = 0;
 const productInfo = require('./productInfo');
@@ -46,7 +48,7 @@ function getProductStatus() {
 
 // }
 
-module.exports = function () {
+const generate = function () {
   // let data = { "women": [], "men": [], "kids": [] };
   let data = {}
 
@@ -81,3 +83,7 @@ module.exports = function () {
 
   return data
 }
+
+const data = generate();
+fs.writeFileSync('./db.json', JSON.stringify(data));
+// module.exports =
