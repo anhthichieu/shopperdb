@@ -13,24 +13,32 @@ function getImgOnHoverUrl(index, group) {
   return `/img/products/${group}/product${index + 1}b.jpeg`
 }
 
+
 /* Get product status (new or sale) */
-let productStatus = { isNew: undefined, discountVal: undefined }
-
-function getProductStatus() {
-  const newExpression = Math.random() >= 0.5; // Expression will return true 50% of the time, and false the other 50%
-  const discountExpression = Math.random() >= 0.5
-
-  productStatus.isNew = newExpression;
-  let isDiscounted = productStatus.isNew ? false : discountExpression; // New product is not discounted
-  productStatus.discountVal = isDiscounted ? round(random(0.1, 0.7), 2) : 0
+let productStatus = {
+  isNew: undefined,
+  price: undefined,
+  discountVal: undefined,
+  discountedPrice: undefined
 }
 
 /* Price */
 function getPrice() {
   let minPrice = 50;
-  let maxPrice = 1000;
-  return Math.floor(Math.random() * (maxPrice - minPrice + 1)) + minPrice
+  let maxPrice = 500;
+  return (Math.floor(Math.random() * (maxPrice - minPrice + 1)) + minPrice).toFixed(2)
 }
+
+function getProductStatus() {
+  const newExpression = Math.random() >= 0.5; // Expression will return true 50% of the time, and false the other 50%
+  const discountExpression = Math.random() >= 0.5
+  productStatus.isNew = newExpression;
+  let isDiscounted = productStatus.isNew ? false : discountExpression; // New product is not discounted
+  productStatus.discountVal = isDiscounted ? round(random(0.1, 0.7), 2) : 0
+  productStatus.price = getPrice();
+  productStatus.discountedPrice = (productStatus.price * (1 - productStatus.discountVal)).toFixed(2);
+}
+
 
 /* Sizes */
 // function getSizes(category) {
@@ -56,10 +64,11 @@ module.exports = function () {
         "name": productInfo[group]['productName'][i],
         "isNew": productStatus.isNew,
         "pricing": {
-          "price": getPrice(),
+          "price": productStatus.price,
           "discount": productStatus.discountVal,
+          "discountedPrice": productStatus.discountedPrice,
         },
-        'sizes': [],
+        'sizes': ['XS', 'S', 'M', 'L', 'XL'],
       })
     }
     return products;
