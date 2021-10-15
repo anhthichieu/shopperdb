@@ -26,12 +26,16 @@ function getProductStatus() {
 }
 
 /* Price */
-
 function getPrice() {
   let minPrice = 50;
   let maxPrice = 1000;
   return Math.floor(Math.random() * (maxPrice - minPrice + 1)) + minPrice
 }
+
+/* Sizes */
+// function getSizes(category) {
+
+// }
 
 module.exports = function () {
   // let data = { "women": [], "men": [], "kids": [] };
@@ -55,6 +59,7 @@ module.exports = function () {
           "price": getPrice(),
           "discount": productStatus.discountVal,
         },
+        'sizes': [],
       })
     }
     return products;
