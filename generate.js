@@ -26,7 +26,7 @@ let productStatus = {
 function getPrice() {
   let minPrice = 50;
   let maxPrice = 500;
-  return (Math.floor(Math.random() * (maxPrice - minPrice + 1)) + minPrice).toFixed(2)
+  return (Math.floor(Math.random() * (maxPrice - minPrice + 1)) + minPrice);
 }
 
 function getProductStatus() {
@@ -35,8 +35,9 @@ function getProductStatus() {
   productStatus.isNew = newExpression;
   let isDiscounted = productStatus.isNew ? false : discountExpression; // New product is not discounted
   productStatus.discountVal = isDiscounted ? round(random(0.1, 0.7), 2) : 0
-  productStatus.price = getPrice();
-  productStatus.discountedPrice = (productStatus.price * (1 - productStatus.discountVal)).toFixed(2);
+
+  productStatus.price = getPrice().toFixed(2);
+  productStatus.discountedPrice = isDiscounted ? '$' + ((productStatus.price * (1 - productStatus.discountVal)).toFixed(2)) : '';
 }
 
 
@@ -64,7 +65,7 @@ module.exports = function () {
         "name": productInfo[group]['productName'][i],
         "isNew": productStatus.isNew,
         "pricing": {
-          "price": productStatus.price,
+          "price": '$' + productStatus.price,
           "discount": productStatus.discountVal,
           "discountedPrice": productStatus.discountedPrice,
         },
