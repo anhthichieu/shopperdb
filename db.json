@@ -8,11 +8,11 @@
       },
       "category": "Shoes",
       "name": "Leather mid-heel Sandals",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": "$332.00",
-        "discount": 0,
-        "discountedPrice": ""
+        "price": "$117.00",
+        "discount": 0.31,
+        "discountedPrice": "$80.73"
       },
       "sizes": [
         "XS",
@@ -30,9 +30,9 @@
       },
       "category": "Dresses",
       "name": "Nobody's Child mini shift dress",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": "$269.00",
+        "price": "$377.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -52,11 +52,11 @@
       },
       "category": "Shoes",
       "name": "Leather Sneakers",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": "$329.00",
-        "discount": 0,
-        "discountedPrice": ""
+        "price": "$217.00",
+        "discount": 0.34,
+        "discountedPrice": "$143.22"
       },
       "sizes": [
         "XS",
@@ -76,7 +76,7 @@
       "name": "Baby Angel oversized full-zip sweatshirt with hood",
       "isNew": true,
       "pricing": {
-        "price": "$63.00",
+        "price": "$408.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -96,11 +96,11 @@
       },
       "category": "Dresses",
       "name": "Pinafore with lurex and squared neckline",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$304.00",
-        "discount": 0.18,
-        "discountedPrice": "$249.28"
+        "price": "$310.00",
+        "discount": 0,
+        "discountedPrice": ""
       },
       "sizes": [
         "XS",
@@ -118,9 +118,9 @@
       },
       "category": "Bags",
       "name": "Shoulder bag with zip and tassels",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$265.00",
+        "price": "$414.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -142,9 +142,9 @@
       "name": "Printed A - line Skirt",
       "isNew": false,
       "pricing": {
-        "price": "$438.00",
-        "discount": 0,
-        "discountedPrice": ""
+        "price": "$437.00",
+        "discount": 0.62,
+        "discountedPrice": "$166.06"
       },
       "sizes": [
         "XS",
@@ -164,9 +164,9 @@
       "name": "Heel strappy Sandals",
       "isNew": false,
       "pricing": {
-        "price": "$191.00",
-        "discount": 0.16,
-        "discountedPrice": "$160.44"
+        "price": "$134.00",
+        "discount": 0,
+        "discountedPrice": ""
       },
       "sizes": [
         "XS",
@@ -186,9 +186,9 @@
       },
       "category": "Casual Shirts",
       "name": "Plaid silk and cotton flannel shirt",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$439.00",
+        "price": "$146.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -210,9 +210,9 @@
       "name": "High-rise pleated wool trousers",
       "isNew": false,
       "pricing": {
-        "price": "$440.00",
-        "discount": 0,
-        "discountedPrice": ""
+        "price": "$286.00",
+        "discount": 0.21,
+        "discountedPrice": "$225.94"
       },
       "sizes": [
         "XS",
@@ -230,9 +230,9 @@
       },
       "category": "Shoes",
       "name": "Weejuns 90s Larson leather penny loafers",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$447.00",
+        "price": "$467.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -252,9 +252,9 @@
       },
       "category": "Sweats",
       "name": "Logo-print jersey sweatshirt",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$208.00",
+        "price": "$160.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -276,7 +276,7 @@
       "name": "Tablier leather cross-body bag",
       "isNew": true,
       "pricing": {
-        "price": "$236.00",
+        "price": "$192.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -296,11 +296,11 @@
       },
       "category": "Coats",
       "name": "Double-lapel wool-blend overcoat",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": "$265.00",
-        "discount": 0,
-        "discountedPrice": ""
+        "price": "$117.00",
+        "discount": 0.18,
+        "discountedPrice": "$95.94"
       },
       "sizes": [
         "XS",
@@ -318,11 +318,11 @@
       },
       "category": "Sneakers",
       "name": "Track panelled trainers",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$266.00",
-        "discount": 0.44,
-        "discountedPrice": "$148.96"
+        "price": "$156.00",
+        "discount": 0,
+        "discountedPrice": ""
       },
       "sizes": [
         "XS",
@@ -342,9 +342,9 @@
       "name": "Anton Sling Anagram-jacquard canvas backpack",
       "isNew": false,
       "pricing": {
-        "price": "$79.00",
-        "discount": 0.14,
-        "discountedPrice": "$67.94"
+        "price": "$123.00",
+        "discount": 0.62,
+        "discountedPrice": "$46.74"
       },
       "sizes": [
         "XS",
@@ -366,9 +366,9 @@
       "name": "GAP checked flannel shacket",
       "isNew": false,
       "pricing": {
-        "price": "$437.00",
-        "discount": 0.47,
-        "discountedPrice": "$231.61"
+        "price": "$347.00",
+        "discount": 0.43,
+        "discountedPrice": "$197.79"
       },
       "sizes": [
         "XS",
@@ -388,7 +388,7 @@
       "name": "Circle unicorn bag",
       "isNew": true,
       "pricing": {
-        "price": "$198.00",
+        "price": "$351.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -410,7 +410,7 @@
       "name": "Dress Green Kids Il Gufo",
       "isNew": false,
       "pricing": {
-        "price": "$390.00",
+        "price": "$404.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -430,9 +430,9 @@
       },
       "category": "Sneakers",
       "name": "Chromefree White Leather Veja Sneakers With Velcro",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$302.00",
+        "price": "$164.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -454,9 +454,9 @@
       "name": "Turquoise Simonetta Padded Headband",
       "isNew": false,
       "pricing": {
-        "price": "$425.00",
-        "discount": 0.53,
-        "discountedPrice": "$199.75"
+        "price": "$131.00",
+        "discount": 0,
+        "discountedPrice": ""
       },
       "sizes": [
         "XS",
@@ -474,9 +474,9 @@
       },
       "category": "Shoes",
       "name": "Chloé Gold Leather Sandals With Studs",
-      "isNew": false,
+      "isNew": true,
       "pricing": {
-        "price": "$328.00",
+        "price": "$168.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -498,7 +498,7 @@
       "name": "T-shirt with print and tank top in foil set",
       "isNew": true,
       "pricing": {
-        "price": "$328.00",
+        "price": "$73.00",
         "discount": 0,
         "discountedPrice": ""
       },
@@ -518,11 +518,11 @@
       },
       "category": "Hats",
       "name": "Black Cotton Canvas Dsquared2 Baseball Cap",
-      "isNew": true,
+      "isNew": false,
       "pricing": {
-        "price": "$67.00",
-        "discount": 0,
-        "discountedPrice": ""
+        "price": "$61.00",
+        "discount": 0.39,
+        "discountedPrice": "$37.21"
       },
       "sizes": [
         "XS",
