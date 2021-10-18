@@ -4,7 +4,7 @@ const info = {
     'productName': ['Leather mid-heel Sandals', "Nobody's Child mini shift dress", 'Leather Sneakers', 'Baby Angel oversized full-zip sweatshirt with hood', 'Pinafore with lurex and squared neckline', 'Shoulder bag with zip and tassels', 'Printed A - line Skirt', 'Heel strappy Sandals']
   },
   "men": {
-    "categories": ['Casual Shirts', 'Pants', 'Shoes', 'Sweats', 'Cross-body Bags', 'Coats', 'Sneakers', 'Backpacks'],
+    "categories": ['Casual Shirts', 'Pants', 'Shoes', 'Sweats', 'Bags', 'Coats', 'Sneakers', 'Backpacks'],
     'productName': ['Plaid silk and cotton flannel shirt', 'High-rise pleated wool trousers', 'Weejuns 90s Larson leather penny loafers', 'Logo-print jersey sweatshirt', 'Tablier leather cross-body bag', 'Double-lapel wool-blend overcoat', 'Track panelled trainers', 'Anton Sling Anagram-jacquard canvas backpack']
   },
   "kids": {
